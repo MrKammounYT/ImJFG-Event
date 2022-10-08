@@ -1,0 +1,7 @@
+main: imjfg.main.main
+name: EVENT
+version: 1.0
+author: Kammoun
+commands:
+  event:
+  e:
